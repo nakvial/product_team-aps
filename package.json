@@ -1,0 +1,24 @@
+{
+  "name": "product_team-aps",
+  "version": "1.0.0",
+  "description": "testing and the other thing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nakvial/product_team-aps.git"
+  },
+  "dependencies": {
+    "apktea88n77": "^1.0.0",
+    "testnetapptea": "^1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nakvial/product_team-aps/issues"
+  },
+  "homepage": "https://github.com/nakvial/product_team-aps#readme"
+}
